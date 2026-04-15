@@ -318,4 +318,4 @@ RMSE = √(mean((pred - target)²))
 
 **Built with ❤️ for NFL Big Data Bowl 2026**
 
-*Powered by PyTorch • PyTorch Geometric • PyTorch Lightning*
+*Powered by PyTorch • PyTorch Geometric • PyTorch Lightning*.
